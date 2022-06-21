@@ -1,0 +1,18 @@
+.features{
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  padding: 50px;
+}
+
+.features-content{
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+  border: 1px solid gold;
+  background-color: rgba(0,0,0,0.5);
+  border-radius: 10px;
+}

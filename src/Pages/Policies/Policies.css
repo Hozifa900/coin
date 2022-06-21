@@ -1,0 +1,10 @@
+.policies{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 42px;
+padding: 50px;
+}

@@ -1,0 +1,12 @@
+.article{
+    position: relative;
+    width: 100%;
+}
+
+.article-title {
+    margin-top: 100px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+}
